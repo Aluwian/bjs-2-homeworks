@@ -1,3 +1,4 @@
+"use strict";
 function getArrayParams(...arr) {
   let min = Infinity;
   let max = -Infinity;
